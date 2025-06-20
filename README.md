@@ -1,6 +1,6 @@
-# 🌐 FNEXT - Web Development Internship (May–June 2025)
+# 🌐 FNEXT - Web Development Internship Tasks
 
-This repository contains all the tasks completed during the **Web Development Internship** offered by [Fnext Solutions](https://www.linkedin.com/company/fnextsolutions/) for the batch **May 31 – June 30, 2025**.
+This repository contains all the tasks completed during the **Web Development Internship** offered by [Fnext Solutions](https://www.linkedin.com/company/fnextsolutions/) for the batch **May–June 2025**.
 
 > 📅 Internship Duration: **31 May 2025 – 30 June 2025**  
 > 👩‍🎓 Intern: **Emuna Dhamotharan**
@@ -9,50 +9,42 @@ This repository contains all the tasks completed during the **Web Development In
 
 ## 📁 Task List
 
-### ✅ Task 1: Simple Registration Form (HTML, CSS & JS)
-Created a user-friendly registration form with basic input validations.
+### ✅ Task 1: Registration Form
+Created a user-friendly registration form using HTML, CSS, and JavaScript.
 
-📂 [View Code](https://github.com/EmunaKavi/FNext/tree/main/Task1_RegistrationForm)
-
----
-
-### ✅ Task 2: Simple Login Form (HTML, CSS & JS)
-Built a login form with username/password input fields and form validation.
-
-📂 [View Code](https://github.com/EmunaKavi/FNext/tree/main/Task2_LoginForm)
+📂 [View Code](https://github.com/EmunaKavi/FNext/blob/main/Registration_form.html)
 
 ---
 
-### ✅ Task 3: Simple Calculator Site (HTML, CSS & JS)
-Developed a calculator that performs basic operations (Add, Subtract, Multiply, Divide).
+### ✅ Task 2: Login Form
+Built a login page with username/password fields and basic input validation.
 
-📂 [View Code](https://github.com/EmunaKavi/FNext/tree/main/Task3_Calculator)
-
----
-
-### ✅ Task 4: Combined Website
-Created a single website where all the above pages are linked and navigable through a homepage.
-
-📂 [View Code](https://github.com/EmunaKavi/FNext/tree/main/Task4_CombinedWebsite)
+📂 [View Code](https://github.com/EmunaKavi/FNext/blob/main/Login_form.html)
 
 ---
 
-## 🚀 Live Demo Links
+### ✅ Task 3: Calculator
+Developed a basic calculator that performs addition, subtraction, multiplication, and division.
 
-> *(Add links after you deploy on GitHub Pages or Netlify)*
+📂 [View Code](https://github.com/EmunaKavi/FNext/blob/main/Calculator.html)
 
-- 🌐 Registration Form: [Coming Soon](#)  
-- 🌐 Login Form: [Coming Soon](#)  
-- 🌐 Calculator: [Coming Soon](#)  
-- 🌐 Combined Website: [Coming Soon](#)  
+---
+
+### ✅ Task 4: Homepage (Combined Website)
+Designed a simple homepage that links to all other pages (registration, login, and calculator) for easy navigation.
+
+📂 [View Code](https://github.com/EmunaKavi/FNext/blob/main/homepage.html)
 
 ---
 
 ## 🧰 Technologies Used
 
-- ✅ HTML5  
-- ✅ CSS3  
-- ✅ JavaScript (Vanilla)
+| Task | Technologies |
+|------|--------------|
+| Registration Form | HTML, CSS, JavaScript |
+| Login Form        | HTML, CSS, JavaScript |
+| Calculator        | HTML, CSS, JavaScript |
+| Homepage          | HTML, CSS |
 
 ---
 
@@ -63,9 +55,8 @@ Created a single website where all the above pages are linked and navigable thro
 🔗 [LinkedIn](https://www.linkedin.com/in/emuna-dhamotharan-251a54258/)  
 🌐 [GitHub](https://github.com/EmunaKavi)
 
+📢 View My Task Completion Post on LinkedIn:  
+🔗 [LinkedIn Post](https://www.linkedin.com/posts/emuna-dhamotharan-251a54258_fnextsolutions-webdevelopment-html-activity-7341817163512520704-J3t9?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD-D6V0Bt5tWyeU9Bd2VViRCzJjgzx0lrug)
+
 ---
 
-## 📢 Stay Connected
-
-- 🔗 [Fnext Solutions LinkedIn](https://www.linkedin.com/company/fnextsolutions/)  
-- 📢 [Fnext Telegram Channel](https://t.me/fnextsolutions)
